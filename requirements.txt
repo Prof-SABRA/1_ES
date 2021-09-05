@@ -1,0 +1,4 @@
+matplotlib
+scipy
+random
+math
